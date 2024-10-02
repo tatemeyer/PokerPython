@@ -1,7 +1,7 @@
-import requests
+import requests 
 import random 
 from collections import Counter 
-from Kardz import Card
+from CardClass import Card
 from Game import PokerGame
 
 
